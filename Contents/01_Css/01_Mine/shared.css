@@ -34,7 +34,7 @@ body, html {
 
             .container > div:nth-child(1).row > div.grid > div.grid-child.white,
             .container > div:nth-child(1).row > div.grid > div.grid-child.black {
-                background-image: url('/Contents/03_Image/point.png');
+                background-image: url('./Contents/03_Image/point.png');
                 background-repeat: no-repeat;
             }
 
@@ -121,7 +121,7 @@ body, html {
 }
 
 .container.nim.playing .row>div{
-    background-image: url('/Contents/03_Image/line.png');
+    background-image: url('./Contents/03_Image/line.png');
     background-position: center;
     background-repeat: no-repeat;
 }
